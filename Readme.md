@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Александра Бордовская](https://up.htmlacademy.ru/adaptive/15/user/824799).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Кузьмичёв](https://htmlacademy.ru/profile/id342395).
 
 ---
 
